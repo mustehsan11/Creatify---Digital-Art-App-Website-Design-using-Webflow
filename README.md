@@ -1,4 +1,4 @@
-## Introduction
+## 📝 Introduction
 
 Creatify is a high-performance digital art application landing page inspired by Procreate. Built with a focus on sleek UI, fluid animations, and a creator-centric workflow, this project showcases a modern approach to software marketing sites. 
 
@@ -6,7 +6,7 @@ This site was originally designed in **Webflow** and exported to clean HTML/CSS/
 
 Visit: https://mustehsans-trendy-site.webflow.io
 
-## Website Overview
+## 🔎 Website Overview
 
 ## 1. Navigation & Branding
 
